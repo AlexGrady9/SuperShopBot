@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "name": "Iphone 17 Pro Max",
+    "category": "Smartphones",
+    "price": 1700,
+    "description": "A powerful smartphone with an excellent camera.",
+  "photo": "https://i.pinimg.com/736x/e4/32/ce/e432ce515c275144bc3e245f6f7c6b5e.jpg"
+  },
+  {
+    "id": 2,
+    "name": "Iphone 16 Pro Max",
+    "category": "Smartphones",
+    "price": 1300,
+    "description": "A stylish smartphone with a large display.",
+  "photo": "https://i.pinimg.com/736x/44/6a/05/446a054a942b369a50fc3d5eb1908856.jpg"
+  },
+  {
+    "id": 3,
+    "name": "Ipgone 11 Pro Max",
+    "category": "Accessories",
+    "price": 500,
+    "description": "Wireless headphones with noise cancellation.",
+  "photo": "https://i.pinimg.com/736x/8b/4e/aa/8b4eaa2e135c812614c086e364c5027f.jpg"
+  }
+]
